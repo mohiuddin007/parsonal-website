@@ -57,10 +57,34 @@ section{
 }
 .division2{
     width: 30%;
-    height: 350px;
+    height: 400px;
     float: left;
     margin: 20px;
     box-shadow: 10px 10px 50px dimgray;
     text-align: center;
     border-radius: 30px;
+}
+.dream-area{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.form{
+   text-align: center;
+   padding-top: 100px;
+}
+#contact{
+    margin-left: 500px;
+    background-image: 
+}
+#contact-me{
+    background-image: url(images/biography-bg.png);
+}
+.footer{
+    background-color: gray;
+    text-align: center;
+}
+.social{
+    width: 30px;
+    height: 30px;
 }
